@@ -1,0 +1,80 @@
+@CHARSET "UTF-8";
+.ziti {
+	font-size: 33px;
+	color: blue;
+	letter-spacing: 0;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px
+		4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333,
+		0px 8px 7px #001135;
+}
+.ziti:hover {
+	font-size: 44px;
+	color: #408080;
+	letter-spacing: 0;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px
+		4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333,
+		0px 8px 7px #001135;
+}
+.ziti1 {
+	font-size: 27px;
+	color: blue;
+	letter-spacing: 0;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px
+		4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333,
+		0px 8px 7px #001135;
+}
+.btn1 {
+	text-align:bottom;
+	font-size:27px;
+	width: 130px;
+	height: 50px;
+	border-radius: 3px;
+	color: #000000;
+	background: blue;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px
+		4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333,
+		0px 8px 7px #001135;
+}
+
+.btn1:hover {
+	width: 170px;
+	background: blue;
+	color: #000000;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px
+		4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333,
+		0px 8px 7px #001135;
+}
+.btn {
+	font-size:22px;
+	width: 130px;
+	height: 40px;
+	border-radius: 3px;
+	color: #000000;
+	background: blue;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px
+		4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333,
+		0px 8px 7px #001135;
+}
+
+.btn:hover {
+	width: 170px;
+	background: #000000;
+	color: blue;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px
+		4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333,
+		0px 8px 7px #001135;
+}
+.txt {
+	width: 210px;
+	height: 40px;
+	border-radius: 3px;
+	border: 1px solid #008080;
+}
+
+.txt:hover {
+	width: 250px;
+	border: 1px solid #8080ff;
+	background: #c0c0c0;
+	color: #000000;
+}
+
